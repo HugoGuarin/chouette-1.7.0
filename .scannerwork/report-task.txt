@@ -1,0 +1,6 @@
+projectKey=org.sonarqube.Chouette1.7.0
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/org.sonarqube.Chouette1.7.0
+ceTaskId=AVzIPtn1zaUOJy5AA2bG
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVzIPtn1zaUOJy5AA2bG
